@@ -1,6 +1,4 @@
 sourcemap.json
 node_modules
 Packages
-docs/.vitepress/dist
-docs/.vitepress/cache
 wally.lock

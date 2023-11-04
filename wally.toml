@@ -1,6 +1,6 @@
 [package]
-name = "red-blox/red"
-version = "2.1.1"
+name = "lolmansreturn/red-backend"
+version = "1.0.0"
 registry = "https://github.com/UpliftGames/wally-index"
 realm = "shared"
 license = "MIT"
