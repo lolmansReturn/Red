@@ -1,6 +1,6 @@
 [package]
 name = "lolmansreturn/red-backend"
-version = "1.1.2"
+version = "1.2.2"
 registry = "https://github.com/UpliftGames/wally-index"
 realm = "shared"
 license = "MIT"
