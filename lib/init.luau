@@ -23,6 +23,6 @@ else
 end
 
 return {
-	Server = require(script.Net).Client,
-	Client = require(script.Net).Server,
+	Server = require(script.Net).Server,
+	Client = require(script.Net).Client,
 }
