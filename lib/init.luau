@@ -25,4 +25,5 @@ end
 return {
 	Server = require(script.Net).Server,
 	Client = require(script.Net).Client,
+	Identifier = require(script.Identifier),
 }
